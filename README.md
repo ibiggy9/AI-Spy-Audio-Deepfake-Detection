@@ -9,7 +9,7 @@ AI-SPY is a mobile app aimed at detecting AI Vocal Deepfakes. The model can be f
 |----------------------------------|----------------------------------|
 | !['Main Menu'](/assets/IMG_1375.PNG)  | !['Main Menu'](/assets/IMG_1376.PNG)  |
 |----------------------------------|----------------------------------|
-| !['Main Menu'](/assets/IMG_1378.PNG)  | 
+| !['Main Menu'](/assets/IMG_1378.PNG)  | !['Main Menu'](/assets/ai.jpeg) 
 |----------------------------------|----------------------------------|
 
 
